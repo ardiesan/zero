@@ -1957,7 +1957,8 @@ content:" "}
 .markdown-section hr:after{
 clear:both}
 .markdown-section h1,.markdown-section h2,.markdown-section h3,.markdown-section h4,.markdown-section h5,.markdown-section h6{
-    margin-top:1.275em;
+    /*margin-top:1.275em;*/
+    margin-top:0.9em;
     margin-bottom:.85em;
 font-weight:700}
 .markdown-section h1{
