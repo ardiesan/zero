@@ -51,6 +51,9 @@ collections:
   pages:
     output: true
     permalink: /:collection/:path/
+  cyber:
+    output: true
+    permalink: /:collection/:title:output_ext
 
 page_width: 800px
 

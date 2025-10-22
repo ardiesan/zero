@@ -2,10 +2,13 @@
 title: Cryptography - GPG
 longtitle: Introduction to Cryptography
 date: 2025-10-08
+categories:
+- cryptography
 tags:
 - cryptography
 - gpg
 layout: post
+permalink: /:categories/:title:output_ext
 ---
 
 

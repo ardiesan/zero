@@ -26,7 +26,7 @@ Through this combination of core features, foundational hash-based integrity che
 
 ## Installation
 
-For our activity, we will utilize **[Docker]({% link _posts/2025-10-09-Containerization.md %})** to give a slight boost in setup and additional tool in our arsenal of deployment mechanisms.
+For our activity, we will utilize **[Docker]({% link _posts/2025-10-09-Deployment-Testing-and-Rapid-Deploy.md %})** to give a slight boost in setup and additional tool in our arsenal of deployment mechanisms.
 
 ### Git (source based) Install
 
